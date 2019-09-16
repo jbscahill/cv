@@ -1,0 +1,27 @@
+body {
+  background-color: #ffd460;
+  height: 10px;
+}
+hr {
+  border-color: #ea5455;
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  width: 10%
+}
+h1 {
+  font-family: arial;
+  font-size: 45px;
+  color: #2d4059
+}
+h3 {
+  color: #2d4059;
+}
+p {
+  font-family: arial;
+  font-size: 1.2em;
+  color: #ea5455;
+  line-height: 0.2cm;
+}
+figure figcaption {
+  text-align: center;
+}
